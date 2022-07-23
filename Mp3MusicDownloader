@@ -2,8 +2,8 @@
 "Ads":"true",
 "qureka":"true",
 "ads_count":3,
-"mpI":"ca-app-pub-3940256099942544/1033173712",
-"mpB":"ca-app-pub-3940256099942544/6300978111",
-"mpN":"ca-app-pub-3940256099942544/2247696110",
-"mpO":"ca-app-pub-3940256099942544/3419835294"
+"mpI":"6499/example/interstitial",
+"mpB":"6499/example/banner",
+"mpN":"6499/example/native",
+"mpO":"6499/example/app-open"
 }
