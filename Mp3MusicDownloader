@@ -1,9 +1,9 @@
 {
 "Ads":"true",
 "qureka":"true",
-"ads_count":0,
-"mpI":"/6499/example/interstitial",
-"mpB":"/6499/example/banner",
-"mpN":"/6499/example/native",
-"mpO":"/6499/example/app-open"
+"ads_count":3,
+"mpI":"",
+"mpB":"",
+"mpN":"",
+"mpO":""
 }
