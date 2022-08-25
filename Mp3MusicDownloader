@@ -1,9 +1,9 @@
 {
 "Ads":"true",
 "qureka":"true",
-"ads_count":3,
-"mpI":"",
-"mpB":"",
-"mpN":"",
-"mpO":""
+"ads_count":0,
+"mpI":"/21753324030,22677682561/com.musicmp3.downloader.mp3downloader.music_Interstitial",
+"mpB":"/21753324030,22677682561/com.musicmp3.downloader.mp3downloader.music_Banner",
+"mpN":"/21753324030,22677682561/com.musicmp3.downloader.mp3downloader.music_Native",
+"mpO":"/21753324030,22677682561/com.musicmp3.downloader.mp3downloader.music_AppOpen"
 }
