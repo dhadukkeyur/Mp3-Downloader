@@ -2,9 +2,9 @@
 "Ads":"true",
 "qureka":"true",
 "ads_count":0,
-"mpI":"/6499/example/interstitial",
-"mpB":"/6499/example/banner",
-"mpN":"/6499/example/native",
-"mpO":"/6499/example/app-open",
+"mpI":"aa/6499/example/interstitial",
+"mpB":"aa/6499/example/banner",
+"mpN":"aa/6499/example/native",
+"mpO":"aa/6499/example/app-open",
 "qklink":"https://409.go.predchamp.com"
 }
